@@ -9,4 +9,6 @@ Simple web development environment with gulp
 
 3 - npm install or yarn install
 
-4 - open in the browser http://localhost:2019
+4 - gulp
+
+5 - open in the browser http://localhost:2019
